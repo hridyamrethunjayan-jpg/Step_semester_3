@@ -24,3 +24,12 @@ Continue with the topics and problems planned for Session 4.
 
 **Issues Faced:**
 None
+
+**Today's Work:**
+Completed session 3 on OOPS constructors. Completed 5 class problems and 5 assignment problems.
+
+**Next Session Plan:**
+Continue with the topics and problems planned for Session 5.
+
+**Issues Faced:**
+None
